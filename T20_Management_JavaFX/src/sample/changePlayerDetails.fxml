@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="415.0" prefWidth="580.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ChangePlayerDetails">
+   <children>
+      <ImageView fitHeight="415.0" fitWidth="589.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@changePplayerpg_bg.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="34.0" layoutY="34.0" text="Edit" textFill="WHITE">
+         <font>
+            <Font name="Arial Bold" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="34.0" layoutY="53.0" text="Player" textFill="WHITE">
+         <font>
+            <Font name="Arial Bold" size="25.0" />
+         </font>
+      </Label>
+      <Label layoutX="19.0" layoutY="111.0" text="Player's Name :" textFill="WHITE">
+         <font>
+            <Font name="Arial Bold" size="13.0" />
+         </font>
+      </Label>
+      <TextField fx:id="playersName" layoutX="121.0" layoutY="108.0" onAction="#setEditBtn" />
+      <Label layoutX="19.0" layoutY="147.0" text="Player's Age    :" textFill="WHITE">
+         <font>
+            <Font name="Arial Bold" size="13.0" />
+         </font>
+      </Label>
+      <TextField fx:id="playersAge" layoutX="121.0" layoutY="144.0" onAction="#setEditBtn" />
+      <Button id="quitBtn" fx:id="backBtn" layoutX="24.0" layoutY="334.0" mnemonicParsing="false" onAction="#setBackBtn" prefHeight="25.0" prefWidth="69.0" style="-fx-background-color: #03c2fc#03c2fc; -fx-background-radius: 90;" text="Back" textFill="WHITE">
+         <font>
+            <Font name="Arial Bold" size="13.0" />
+         </font>
+      </Button>
+      <Button id="quitBtn" fx:id="editBtn" layoutX="437.0" layoutY="277.0" mnemonicParsing="false" onAction="#setEditBtn" prefHeight="25.0" prefWidth="86.0" style="-fx-background-color: cyan;" text="Edit" textFill="WHITE">
+         <font>
+            <Font name="Arial Bold" size="13.0" />
+         </font>
+      </Button>
+      <Label layoutX="20.0" layoutY="183.0" text="Player's Team :" textFill="WHITE">
+         <font>
+            <Font name="Arial Bold" size="13.0" />
+         </font>
+      </Label>
+      <TextField fx:id="playersTeam" layoutX="121.0" layoutY="180.0" onAction="#setEditBtn" />
+      <Label layoutX="312.0" layoutY="113.0" text="New Role     :" textFill="WHITE">
+         <font>
+            <Font name="Arial Bold" size="13.0" />
+         </font>
+      </Label>
+      <TextField fx:id="playersNewRole" layoutX="400.0" layoutY="108.0" onAction="#setEditBtn" />
+      <Label layoutX="312.0" layoutY="149.0" text="Total Score  :" textFill="WHITE">
+         <font>
+            <Font name="Arial Bold" size="13.0" />
+         </font>
+      </Label>
+      <TextField fx:id="playersNewTotalScore" layoutX="400.0" layoutY="144.0" onAction="#setEditBtn" />
+      <Label layoutX="310.0" layoutY="185.0" text="Total Wickets :" textFill="WHITE">
+         <font>
+            <Font name="Arial Bold" size="12.0" />
+         </font>
+      </Label>
+      <TextField fx:id="playersNewTotWickets" layoutX="400.0" layoutY="180.0" onAction="#setEditBtn" />
+      <Label layoutX="364.0" layoutY="83.0" text="New Details" textFill="#5bbbf7">
+         <font>
+            <Font name="Arial Bold" size="14.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

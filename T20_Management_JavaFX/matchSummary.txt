@@ -1,0 +1,14 @@
+1,Pakistan,220,8,New Zealand,141,8,Pakistan
+2,West Indies,86,5,Sri Lanka,85,1,Sri Lanka
+3,Sri Lanka,78,4,Pakistan,78,2,Pakistan
+4,Australia,150,7,Afganistan,141,11,Australia
+5,India,203,8,England,173,5,India
+6,India,90,4,Australia,89,1,Australia
+7,Pakistan,44,3,Australia,44,1,Australia
+1,New Zealand,204,6,Pakistan,163,5,New Zealand
+2,West Indies,136,4,Sri Lanka,133,2,Sri Lanka
+3,Sri Lanka,195,7,New Zealand,170,4,Sri Lanka
+4,Australia,294,11,Afganistan,151,4,Australia
+5,India,121,6,England,118,2,England
+6,England,219,7,Australia,151,5,England
+7,England,153,6,Sri Lanka,153,8,Sri Lanka

@@ -1,0 +1,88 @@
+Aaron Finch,35,Australia,bowler,85,1
+Alex Carey,30,Australia,allrounder,17,2
+Glenn Maxwell,23,Australia,bowler,36,0
+Pat Cummins,28,Australia,bowler,13,1
+Sean Abbot,29,Australia,batter,0,0
+Marcus Harris,30,Australia,batter,0,0
+Mitchell Marsh,30,Australia,allrounder,0,0
+Daniel Sams,29,Australia,batter,0,1
+Ashton Agar,28,Australia,bowler,0,0
+Mitchell Starc,31,Australia,batter,0,0
+Dan Christian,38,Australia,allrounder,0,2
+Mohammed Nabi,23,Afganistan,batter,0,0
+Adbul Wasi,25,Afganistan,bowler,0,0
+Afsar Zazai,31,Afganistan,batter,0,0
+Asghar Afghan,24,Afganistan,allrounder,0,0
+Amir Hamza,23,Afganistan,batter,0,0
+Azmatullah Omarzai,31,Afganistan,allrounder,0,0
+Fareed Ahmad,26,Afganistan,batter,0,0
+Fazalhaq Farooqi,21,Afganistan,batter,0,0
+Gulbadin Naib,27,Afganistan,bowler,0,0
+Hamid Hassan,34,Afganistan,batter,0,0
+Hashmatullah Shahidi,30,Afganistan,allrounder,0,0
+Eoin Morgan,28,England,batter,65,8
+Toby Albert,27,England,batter,60,9
+Moeen Ali,26,England,allrounder,42,7
+Tom Alsop,21,England,batter,43,14
+Jofra Archer,29,England,bowler,45,6
+Gus Atkinson,26,England,batter,90,21
+Tom Bailey,23,England,bowler,27,8
+Jonny Bairstow,23,England,batter,0,13
+Jake Ball,21,England,bowler,0,8
+Gary Ballance,28,England,batter,0,14
+Ethan Bamber,31,England,batter,0,16
+Virat Kohli,29,India,batter,0,0
+Rohit Sharma,32,India,batter,0,0
+KL Rahul Rishabh Pant,31,India,batter,0,0
+Ishan Kishan,29,India,bowler,0,0
+Suryakumar Yadav,31,India,batter,0,0
+Hardik Pandya,30,India,allrounder,0,0
+Ravindra Jadeja,29,India,batter,0,0
+Rahul Chahar,27,India,bowler,0,0
+Ravichandran Ashwin,21,India,batter,0,0
+Varun Chakravarthy,26,India,batter,0,0
+Shardul Thakur,27,India,batter,0,0
+Kane Williamson,29,New Zealand,batter,105,1
+Tim Seifert,25,New Zealand,batter,40,0
+Martin Guptill,28,New Zealand,batter,18,0
+Todd Astle,32,New Zealand,allrounder,7,1
+Trent Boult,30,New Zealand,batter,0,0
+Devon Conway,31,New Zealand,bowler,0,1
+Adam Milne,26,New Zealand,allrounder,0,0
+Kyle Jamieson,28,New Zealand,batter,0,1
+Jimmy Neesham,27,New Zealand,bowler,0,2
+Glenn Phillips,23,New Zealand,batter,0,1
+Mitchell Santner,34,New Zealand,allrounder,0,0
+Babar Azam,23,Pakistan,bowler,0,0
+Shadab Khan,34,Pakistan,batter,0,0
+Imad Wasim,28,Pakistan,allrounder,0,0
+Mohammad Nawaz,29,Pakistan,batter,0,0
+Mohammad Hafeez,31,Pakistan,bowler,0,0
+Asif Ali,30,Pakistan,batter,0,0
+Sarfaraz Ahmed,28,Pakistan,bowler,0,0
+Haris Rauf,32,Pakistan,bowler,0,0
+Hasan Ali,27,Pakistan,batter,0,0
+Shoaib Malik,34,Pakistan,batter,0,0
+Haider Ali,23,Pakistan,allrounder,0,0
+Dasun Shanaka,30,Sri Lanka,bowler,76,6
+Kusal Perera,31,Sri Lanka,allrounder,52,9
+Dinesh Chandimal,32,Sri Lanka,batter,27,5
+Dhananjaya De Silva,30,Sri Lanka,allrounder,36,4
+Charith Asalanka,24,Sri Lanka,bowler,30,9
+Wanindu Hasaranga,24,Sri Lanka,bowler,67,3
+Chamika Karunaratne,25,Sri Lanka,batter,56,9
+Lahiru Kumara,24,Sri Lanka,batter,4,6
+Binura Fernando,26,Sri Lanka,batter,0,8
+Pathum Nissanka,23,Sri Lanka,batter,0,5
+Akila Dananjaya,28,Sri Lanka,allrounder,0,3
+Kieron Pollard,34,West Indies,batter,0,0
+Nicholas Pooran,26,West Indies,batter,0,0
+Chris Gayle,42,West Indies,batter,0,0
+Andre Russell,33,West Indies,bowler,0,0
+Akeal Hosein,28,West Indies,bowler,0,0
+Dwayne Bravo,38,West Indies,batter,0,0
+Roston Chase,29,West Indies,allrounder,0,0
+Andre Fletcher,33,West Indies,bowler,0,0
+Shimron Hetmyer,24,West Indies,bowler,0,0
+Evin Lewis,29,West Indies,allrounder,0,0
+Jason Holder,30,West Indies,allrounder,0,0
